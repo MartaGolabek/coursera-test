@@ -67,6 +67,10 @@ container-fluid .row {
 	margin-top: 0px;
 }
 
+#ourMenu {
+	margin-top: 65px;
+}
+
 /********** Large devices only **********/
 
 
@@ -84,6 +88,7 @@ container-fluid .row {
 	border: 2px black solid;
 	width: 100%;
 	border-radius: 0px;
+	padding-top:0px;
 }
 
 /**********Extra Small devices only **********/
